@@ -1,4 +1,4 @@
-# 🍽 Zomato Data Analysis using PostgreSQL
+#  Zomato Data Analysis using PostgreSQL
 
 ---
 
